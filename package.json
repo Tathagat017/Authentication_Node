@@ -1,0 +1,26 @@
+{
+  "name": "authentication_node",
+  "version": "1.0.0",
+  "description": "Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tathagat017/Authentication_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tathagat017/Authentication_Node/issues"
+  },
+  "homepage": "https://github.com/Tathagat017/Authentication_Node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5",
+    "nodemon": "^2.0.22"
+  }
+}
